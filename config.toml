@@ -1,0 +1,4 @@
+baseURL = 'https://grillbrickstudios.com/'
+languageCode = 'en-us'
+title = "Grillbrick's Blogs"
+theme = 'ananke'
